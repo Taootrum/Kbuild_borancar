@@ -1,0 +1,8 @@
+*.cmd
+*.o
+*.order
+Out/
+.config
+.config.old
+vmlinux
+include
